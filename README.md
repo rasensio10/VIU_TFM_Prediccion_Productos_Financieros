@@ -23,7 +23,9 @@ A continuación se listan los ficheros  fuentes contenidos en el repositorio con
 
 - TFM_Analisis_Series_Tiempo_IBEX35.ipynb
 
-Para facilitar su lectura se entregan los anexos de los ficheros fuentes de tipo ipynb  impresos en formato PDF. Se entregan 9 ficheros de tipo pdf en un único fichero con formato ZIP llamado . Ficheros_PDF_TFM_Prediccion_Productos_Financieros.zip
+Además, para facilitar su descarga se entrega un fichero comprimido ZIP llamado TFM_Prediccion_Productos_Financieros.zip con los nueve ficheros fuente de tipo ipynb.  
+
+Para facilitar su lectura se entregan los anexos de los ficheros fuentes de tipo ipynb impresos en formato PDF. Se entregan 9 ficheros de tipo pdf en un único fichero con formato ZIP llamado. TFM_Prediccion_Productos_Financieros_Ficheros_PDF.zip
 
 A continuación se listan los documentos PDF contenidos en el fichero ZIP: 
 
