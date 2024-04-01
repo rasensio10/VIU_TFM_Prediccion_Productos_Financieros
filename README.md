@@ -5,7 +5,7 @@ VIU. Máster en Big data y Ciencia de datos. TFM Predicción de Productos Financ
 
 A continuación se listan los ficheros  fuentes contenidos en el repositorio con formato IPYNB:
 
-- TFM_Prediccion_productos_financieros.ipynb
+- TFM_Prediccion_Productos_Financieros.ipynb
 
 - TFM_Analisis_Series_Tiempo_BANKINTER.ipynb
 
@@ -29,7 +29,7 @@ Finalmente y para facilitar su lectura se entregan los anexos de los ficheros fu
 
 A continuación se listan los documentos PDF contenidos en el fichero ZIP: 
 
-- TFM_Prediccion_productos_financieros.pdf
+- TFM_Prediccion_Productos_Financieros.pdf
 
 - TFM_Analisis_Series_Tiempo_BANKINTER.pdf
 
