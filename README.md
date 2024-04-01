@@ -3,7 +3,7 @@ VIU. Máster en Big data y Ciencia de datos. TFM Predicción de Productos Financ
 
 **Índice del código fuente del proyecto.**
 
-A continuación, se presenta una lista detallada de los ficheros fuentes en formato IPYNB que se encuentran disponibles en el repositorio::
+A continuación, se presenta una lista detallada de los ficheros fuentes en formato IPYNB que se encuentran disponibles en el repositorio.
 
 Fichero con el código fuente del proyecto, predicción del IBEX35 en base a los activos financieros:
 
