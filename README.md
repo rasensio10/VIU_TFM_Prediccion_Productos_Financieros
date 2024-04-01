@@ -1,7 +1,7 @@
 # VIU_TFM_Prediccion_Productos_Financieros
 VIU. Máster en Big data y Ciencia de datos. TFM Predicción de Productos Financieros.
 
-** Índice del código fuente del proyecto. **
+**Índice del código fuente del proyecto.**
 
 A continuación se listan los ficheros  fuentes contenidos en el repositorio con formato IPYNB:
 
@@ -27,22 +27,22 @@ Para facilitar su lectura se entregan los anexos de los ficheros fuentes de tipo
 
 A continuación se listan los documentos PDF contenidos en el fichero ZIP: 
 
-TFM_Prediccion_productos_financieros.pdf
+- TFM_Prediccion_productos_financieros.pdf
 
-TFM_Analisis_Series_Tiempo_BANKINTER.pdf
+- TFM_Analisis_Series_Tiempo_BANKINTER.pdf
 
-TFM_Analisis_Series_Tiempo_BBVA.pdf
+- TFM_Analisis_Series_Tiempo_BBVA.pdf
 
-TFM_Analisis_Series_Tiempo_Caixa.pdf
+- TFM_Analisis_Series_Tiempo_Caixa.pdf
 
-TFM_Analisis_Series_Tiempo_Sabadell.pdf
+- TFM_Analisis_Series_Tiempo_Sabadell.pdf
 
-TFM_Analisis_Series_Tiempo_Santander.pdf
+- TFM_Analisis_Series_Tiempo_Santander.pdf
 
-TFM_Analisis_Series_Tiempo_Mapfre.pdf
+- TFM_Analisis_Series_Tiempo_Mapfre.pdf
 
-TFM_Analisis_Series_Tiempo_Unicaja.pdf
+- TFM_Analisis_Series_Tiempo_Unicaja.pdf
 
-TFM_Analisis_Series_Tiempo_IBEX35.pdf
+- TFM_Analisis_Series_Tiempo_IBEX35.pdf
 
 
